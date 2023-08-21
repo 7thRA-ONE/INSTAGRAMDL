@@ -81,6 +81,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 Feel free to contribute, open issues, and submit pull requests. If you find any bugs or have suggestions, please [create an issue](https://github.com/7thRA-ONE/instagramdl/issues).
 
 For more information and updates, check out the [GitHub repository](https://github.com/7thRA-ONE/instagramdl) and [npm package](https://www.npmjs.com/package/@7thraone/instagramdl).
-```
+ 
 
-Please replace placeholders like `yourusername` with your actual GitHub username and customize the content to match your package's specifics.
+ 
