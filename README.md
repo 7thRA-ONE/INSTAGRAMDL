@@ -8,7 +8,6 @@ A utility for downloading videos from Instagram using the saveig.app API and Che
 ## Installation
 
 ```bash
- 
 npm install @7thraone/instagramdl
 ```
 
@@ -75,7 +74,7 @@ main();
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
