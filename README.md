@@ -35,7 +35,7 @@ const main = async () => {
 main();
 ```
 
-## Example javascript Usage
+## Example Ladybug/Atlas WA Bot Usage
 
 ```javascript
 
