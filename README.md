@@ -1,7 +1,7 @@
 # InstagramDL
 
 ![npm](https://img.shields.io/npm/v/@7thraone/instagramdl)
-![GitHub](https://img.shields.io/github/license/7thRA-ONE/instagramdl)
+![GitHub](https://img.shields.io/github/license/7thRA-ONE/INSTAGRAMDL?color=%231e81b0&style=for-the-badge)
 
 A utility for downloading videos from Instagram using the saveig.app API and Cheerio.
 
