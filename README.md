@@ -1,31 +1,14 @@
 # InstagramDL
 
 ![npm](https://img.shields.io/npm/v/@7thraone/instagramdl)
-![GitHub](https://img.shields.io/github/license/7thra-one/instagramdl)
+![GitHub](https://img.shields.io/github/license/7thraone/instagramdl)
 
 A utility for downloading videos from Instagram using the saveig.app API and Cheerio.
 
 ## Installation
 
 ```bash
-npm install @7thraone/instagramdl
-
-
-
-
-Certainly! Here's the complete `README.md` template with example code, HTML usage, and license information:
-
-```markdown
-# InstagramDL
-
-![npm](https://img.shields.io/npm/v/@7thraone/instagramdl)
-![GitHub](https://img.shields.io/github/license/yourusername/instagramdl)
-
-A utility for downloading videos from Instagram using the saveig.app API and Cheerio.
-
-## Installation
-
-```bash
+ 
 npm install @7thraone/instagramdl
 ```
 
@@ -96,9 +79,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to contribute, open issues, and submit pull requests. If you find any bugs or have suggestions, please [create an issue](https://github.com/yourusername/instagramdl/issues).
+Feel free to contribute, open issues, and submit pull requests. If you find any bugs or have suggestions, please [create an issue](https://github.com/7thRA-ONE/instagramdl/issues).
 
-For more information and updates, check out the [GitHub repository](https://github.com/yourusername/instagramdl) and [npm package](https://www.npmjs.com/package/@7thraone/instagramdl).
+For more information and updates, check out the [GitHub repository](https://github.com/7thRA-ONE/instagramdl) and [npm package](https://www.npmjs.com/package/@7thraone/instagramdl).
 ```
 
 Please replace placeholders like `yourusername` with your actual GitHub username and customize the content to match your package's specifics.
