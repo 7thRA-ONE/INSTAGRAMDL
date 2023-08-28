@@ -88,7 +88,7 @@ const instagramDL = require('@7thraone/instagramdl');
     break;
 
  
-}
+
 ```
 
 ## License
