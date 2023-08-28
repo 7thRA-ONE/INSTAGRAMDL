@@ -69,7 +69,7 @@ const instagramDL = require('@7thraone/instagramdl');
           m.from,
           {
             video: { url: videoLink },
-            caption: `Downloaded by: *${botName}* \n\n_*🧩 Powered By : @7thraone/instagramdl\n Url:*_ https://github.com/7thRA-ONE/INSTAGRAMDL \n`,
+            caption: `Downloaded by: *${botName}* \n\n 🧩 _*Powered By*_: \n _*@7thraone/instagramdl*_\n _*Url*_ : https://github.com/7thRA-ONE/INSTAGRAMDL \n`,
           },
           { quoted: m }
         );
