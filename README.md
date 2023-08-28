@@ -46,13 +46,13 @@ const instagramDL = require('@7thraone/instagramdl');
     if (!text) {
       await doReact("❌");
       return m.reply(
-        `Please provide a valid Instagram Reel/Video link!\n\nExample: *${prefix}igdl https://www.instagram.com/p/CP7Y4Y8J8ZU/*`
+        `BAKA !! provide a valid Instagram Reel/Video link!\n\nExample: *${prefix}igdl https://www.instagram.com/p/CP7Y4Y8J8ZU/*`
       );
     }
     if (!text.includes("instagram")) {
       await doReact("❌");
       return m.reply(
-        `Please provide a valid Instagram Reel/Video link!\n\nExample: *${prefix}igdl https://www.instagram.com/p/CP7Y4Y8J8ZU/*`
+        `BAKA !!  provide a valid Instagram Reel/Video link!\n\nExample: *${prefix}igdl https://www.instagram.com/p/CP7Y4Y8J8ZU/*`
       );
     }
     await doReact("📥");
